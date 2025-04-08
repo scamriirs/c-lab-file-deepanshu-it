@@ -1,4 +1,5 @@
-//
+//18. Implement the concept in C# consisting of a delegate called student that refers to a method called
+// student record (), your program should get the details of student record and display. [Delegate] 
 
 using System;
 
