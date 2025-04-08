@@ -1,4 +1,7 @@
-//
+// 20. Prepare a login form, which will accept unique username, password of alphanumeric type, re-type
+//  password, date of birth, and text to remember password. And put all necessary validation. If user does
+//  not fill the complete form it should show valid error message. Also if user is new then there should be
+//  option for creating new Login and a checkbox to remember on computer. [Windows application].
 
 using System;
 using System.Windows.Forms;
