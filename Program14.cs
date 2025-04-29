@@ -1,6 +1,6 @@
 // 14. Create a windows form with registration number, name, age, class and other details. 
 
-[12:28, 08/04/2025] Akash MR: using System;
+using System;
 using System.Windows.Forms;
 
 public class RegistrationForm : Form
